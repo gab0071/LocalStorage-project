@@ -1,4 +1,4 @@
-# Small localStorage project 🦄
+# Small Local Storage Project 🦄
 
 Live Demo 💥: https://astonishing-churros-f1bd4c.netlify.app/
 
